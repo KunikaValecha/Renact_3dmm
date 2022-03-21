@@ -1,0 +1,11 @@
+eyeBlinkLeft,eyeBlinkRight,jawOpen,mouthPucker,mouthSmileLeft,mouthSmileRight,mouthFrownLeft,mouthFrownRight,mouthShrugLower,mouthLowerDownLeft,mouthLowerDownRight,browDownLeft,browDownRight,browInnerUp,browOuterUpLeft,browOuterUpRight,noseSneerLeft,noseSneerRight
+0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0
+0,0,0,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0
+0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
